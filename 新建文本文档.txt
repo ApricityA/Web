@@ -1,0 +1,8 @@
+directors 导演，rate 电影评分，title 电影名称，casts 电影演员，cover 封面，detailLink 电影详情链接，year 年份，type 电影类型，
+country 国家，language 语言，time上映时间，moveTime 电影片场，comment_len 短评个数，starts 电影星级，summary 电影
+信息介绍
+comments（user，start，time，content）电影短评（短评用户，短评评分，短评时间，段评内容） ，imgList 图片列表 ，
+movieUrl 预告片连接
+
+
+https://movie.douban.com/j/search_subjects?type=movie&tag=%E7%83%AD%E9%97%A8&page_limit=50&page_start=0
